@@ -16,6 +16,5 @@ Enjoy a game of Tic Tac Toe with a friend or challenge the computer AI.
 Requirements
 Python 3.x
 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the NUSt License.
 
-You can use this description as part of your GitHub repository's README to provide information about your Tic Tac Toe game to potential users and contributors.
